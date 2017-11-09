@@ -28,7 +28,7 @@ public class Identifier {
      */
     public void identify() {
 
-        System.out.printf("S2a \n" + "Philipp Schwarz \n" + "Rudolf Hecht \n");
+        System.out.printf("S2a \n" + "meesterP \n");
 
         // Geben Sie Ihre StaffelNr und Ihre(n) Namen auf dem Bildschirm aus.
     }
